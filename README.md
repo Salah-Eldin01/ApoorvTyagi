@@ -1,7 +1,7 @@
 # Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 <p align="center">
   <a href="https://x.com/apoorv__tyagi" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/x.svg" height="30" style="display:inline-block;" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/x.svg" height="30" style="display:inline-block;" /> 
   </a>
   <a href="https://linkedin.com/in/apoorvtyagi" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" height="30" style="display:inline-block;" />
